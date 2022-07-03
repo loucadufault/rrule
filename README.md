@@ -449,7 +449,7 @@ documentation.
 <dl>
     <dt><code>rule.options</code></dt>
     <dd>Processed options applied to the rule. Includes default options
-    (such us <code>wkstart</code>). Currently,
+    (such as <code>wkstart</code>). Currently,
     <code>rule.options.byweekday</code> isn't equal
     to <code>rule.origOptions.byweekday</code> (which is an inconsistency).
     </dd>
